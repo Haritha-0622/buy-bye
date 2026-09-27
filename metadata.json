@@ -1,0 +1,6 @@
+{
+  "name": "BUY & BYE - Men's Fashion Store",
+  "description": "BUY & BYE - Men's clothing store in Puducherry. Look Rich. Spend Less. Modern men's fashion, shirts, t-shirts, jeans, trousers, ethnic wear & accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
